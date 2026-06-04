@@ -46,7 +46,7 @@ To analyze Spotify music data and create meaningful visual insights that help un
 ---
 
 ## 🖼️ Dashboard Preview
-![Spotify Dashboard](dashboard.png)
+![Spotify Dashboard](images/dashboard.png)
 
 ---
 
