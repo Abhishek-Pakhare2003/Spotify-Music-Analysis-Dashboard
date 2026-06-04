@@ -26,7 +26,8 @@ This project is an interactive Spotify analytics dashboard designed to explore l
 - Clean and user-friendly UI dashboard  
 
 ## 🖼️ Dashboard Preview
-("C:\Users\ASUS\OneDrive\Desktop\project Pb\Spotify Project\Screenshot 2026-06-04 002441.png")
+
+![Spotify Dashboard](dashboard.png)
 
 ## 🚀 Objective
 To understand music streaming behavior and extract meaningful insights using data analytics and visualization techniques.
