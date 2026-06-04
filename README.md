@@ -69,4 +69,4 @@ This dashboard helps in understanding:
 ---
 
 ## 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+LinkedIn: https://www.linkedin.com/posts/abhishekpakhare_dataanalytics-datascience-powerbi-ugcPost-7468329005276950528-bG4C/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFEJ7QYBM9IGuSUxjFB3DnfHAQVyFrFpynw
